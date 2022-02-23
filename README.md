@@ -2,7 +2,7 @@
 
 I'm **Simeone** 🙋‍♂️
 
-📍&nbsp;I live in Italy
+&nbsp;📍&nbsp;&nbsp;I live in Italy
 
 🎮 I like playing **video-games**
 
