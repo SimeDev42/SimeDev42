@@ -14,5 +14,6 @@ These are the **programming languages** I know:
   - **HTML and CSS (even if they aren't programming languages)**
   - **JavaScript**
 
-- 🤔 I’m looking for help with **CSS**
-- 💬 Ask me about anything you want
+🤔 I’m looking for help with **CSS**
+
+💬 Ask me about anything you want
