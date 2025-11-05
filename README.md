@@ -34,7 +34,7 @@ Here are the primary tools and languages I work with:
 
 ---
 
-## 📊 My GitHub Stats
+<h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SimeDev42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Simeone's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeDev42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
