@@ -1,41 +1,43 @@
-<h1 align="center">
-  Hi, I'm Simeone 👋
-</h1>
+# Hi, I'm Simeone 👋
 
-<h2 align="center">
-  <strong>Full Stack Developer</strong> - <strong>Computer Science Student</strong>
-</h2>
-I love building robust applications from the ground up, whether it's a complex web app or a native mobile solution. My passion for technology is matched only by my fascination with high-performance engines, especially motorcycles! 🏍️💨
+### Software Engineering Student | Full-Stack Developer
 
-Whether I'm debugging a server configuration or tuning an engine, I love understanding how complex systems work together.
+**Curious mind. Always building.**
 
----
+I'm a Software Engineering student at **SDU Vejle**, passionate about building software, understanding complex systems, and exploring new technologies.
 
-<h2 align="center">💻 What I Do</h2>
+I enjoy working across the entire stack, from low-level programming and backend development to modern web applications and infrastructure.
 
-I'm comfortable across the entire stack, from system administration to frontend design.
+## 🚀 About Me
 
-* **🌐 Web Development:** Building responsive and dynamic web applications using **React** and **Node.js**.
-* **📱 Mobile Development:** Creating cross-platform apps with **React Native** and native Android apps with **Java** (Android Studio).
-* **🔧 DevOps & Infrastructure:** Experienced in **Proxmox**, **Docker**, and general server setup/virtualization. I build it, I deploy it, I maintain it.
-* **🛢️ Databases:** Familiar with integrating and managing various database solutions in complex environments.
+- 🎓 Studying **Software Engineering at SDU Vejle**
+- 💻 Interested in **full-stack development, backend systems, and low-level programming**
+- 🛠️ I enjoy building useful applications and solving real-world problems
+- 🌱 Currently exploring **computer networking and new technologies**
+- 🤝 Open to collaborations and interesting projects
+- 🏍️ Outside of coding, I'm passionate about motorcycles and how complex machines work
 
----
+## 🛠️ Tech Stack
 
-<h2 align="center">🛠️ My Tech Stack</h2>
+**Languages**
 
-Here are the primary tools and languages I work with:
+C · C++ · C# · Java · Python · PHP · JavaScript · HTML · CSS
 
-* **Languages:** C, C++, C#, Java, Python, PHP, JavaScript (ES6+), HTML5, CSS3
-* **Frontend:** React, React Native, HTML, CSS
-* **Backend:** Node.js, Java, PHP
-* **DevOps & Systems:** Docker, Proxmox, Linux Server Admin
-* **Currently Learning:** I'm always growing! Right now, I'm diving deep into **Computer Networks & Networking**.
+**Frameworks & Technologies**
 
----
+.NET · Angular · React · React Native · Node.js
 
-<h2 align="center">📊 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimeDev42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Simeone's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeDev42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+**Tools & Infrastructure**
+
+Git · GitHub · Docker · Proxmox · Linux · Android Studio
+
+## 🌱 Currently Exploring
+
+- Computer networking and system architecture
+- Backend development and APIs
+- Low-level programming
+- New frameworks, tools, and technologies
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/simeone-gentile/)
